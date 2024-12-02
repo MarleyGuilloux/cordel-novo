@@ -98,7 +98,6 @@ section.imagem2 {
 
 section.imagem2 > p {
     display: inline-block;
-    box-shadow: 1px 1px 0px black;
     box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.411);
     background-color: rgba(0, 0, 0, 0.514);
 }
